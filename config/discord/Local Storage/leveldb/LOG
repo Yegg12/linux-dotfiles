@@ -1,0 +1,6 @@
+2025/05/22-11:20:14.830 9d3 Reusing MANIFEST /home/yegg/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/05/22-11:20:14.864 9d3 Recovering log #11615
+2025/05/22-11:20:14.914 9d3 Reusing old log /home/yegg/.config/discord/Local Storage/leveldb/011615.log 
+2025/05/22-11:21:17.463 9d4 Level-0 table #11619: started
+2025/05/22-11:21:17.521 9d4 Level-0 table #11619: 33289 bytes OK
+2025/05/22-11:21:17.596 9d4 Delete type=0 #11615

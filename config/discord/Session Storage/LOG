@@ -1,0 +1,5 @@
+2025/05/22-11:20:17.522 9d3 Reusing MANIFEST /home/yegg/.config/discord/Session Storage/MANIFEST-000001
+2025/05/22-11:20:17.526 9d3 Recovering log #10
+2025/05/22-11:20:17.527 9d3 (ignoring error) /home/yegg/.config/discord/Session Storage/000010.log: dropping 13375 bytes; Corruption: checksum mismatch
+2025/05/22-11:20:17.528 9d3 (ignoring error) /home/yegg/.config/discord/Session Storage/000010.log: dropping 77 bytes; Corruption: missing start of fragmented record(2)
+2025/05/22-11:20:17.528 9d3 Reusing old log /home/yegg/.config/discord/Session Storage/000010.log 
